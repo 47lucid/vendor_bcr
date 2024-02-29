@@ -1,8 +1,4 @@
 ## Add In Rom
-##clone it in vendor
-
-
-git clone https://github.com/47lucid/vendor_bcr.git vendor
 
 Add This Line In device.mk
 
